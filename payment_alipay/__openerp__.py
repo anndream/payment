@@ -15,6 +15,6 @@
         'data/alipay.xml',
     ],
     'installable': True,
-    'price': 499.99,
+    'price': 49.99,
     'currency': 'EUR',
 }
